@@ -6,7 +6,7 @@ sidebar_label: 安装
 
 ## 环境准备
 
-要运行 Fiora, 你需要 Node.js(推荐 v14 LTS 版本), MongoDB 和 redis
+要运行 Fiora, 你需要 Node.js(推荐 v14 LTS 版本)(!!yarn 版本1.22.4), MongoDB 和 redis
 
 -   安装 Node.js
     -   官网 <http://nodejs.cn/download/>
