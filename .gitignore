@@ -12,7 +12,7 @@ lerna-debug.log
 
 .env
 
-packages/server/public/*
+#packages/server/public/*
 !packages/server/public/avatar/
 packages/server/public/avatar/*_*.*
 !packages/server/public/favicon-96.png
