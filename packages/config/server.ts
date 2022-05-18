@@ -15,7 +15,7 @@ export default {
     redis: {
         host: env.RedisHost || 'localhost',
         port: env.RedisPort ? parseInt(env.RedisPort, 10) : 6379,
-        // password: env.RedisPassword || 'tiger',
+        password: env.RedisPassword || 'tiger',
     },
 
     // jwt encryption secret

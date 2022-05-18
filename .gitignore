@@ -1,6 +1,6 @@
 .DS_Store
-#node_modules/
-#dist/
+node_modules/
+dist/
 coverage/
 .idea/
 .linaria-cache/
@@ -12,9 +12,9 @@ lerna-debug.log
 
 .env
 
-#packages/server/public/*
+packages/server/public/*
 !packages/server/public/avatar/
-#packages/server/public/avatar/*_*.*
+packages/server/public/avatar/*_*.*
 !packages/server/public/favicon-96.png
 !packages/server/public/favicon-192.png
 !packages/server/public/favicon-512.png
